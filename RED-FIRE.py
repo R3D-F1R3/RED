@@ -1,8 +1,3 @@
-import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
-import marshal
-import os,httpx
-import os,base64
-from os import system as clr
 #print('\033[1;32m[\033[1;31m-\033[1;32m] \033[1;32m install modules...\n PLEASE WAIY CHAKENG YOUR PAID...')
 #os.system('pip install httplib2')
 try:
